@@ -40,7 +40,7 @@ def preprocess_image(image):
     return image
 
 with st.sidebar:
-        st.image('KN004_Coffee_Cherry.jpg')
+        st.image('./testing/KN004_Coffee_Cherry.jpg')
         st.subheader("Deteksi akurat penyakit yang ada pada buah kopi. Hal ini membantu pengguna untuk dengan mudah mendeteksi penyakit dan mengidentifikasi penyebabnya.")
 
 # Page Title
